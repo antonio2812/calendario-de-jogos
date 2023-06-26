@@ -1,14 +1,16 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> Calendário de Jogos </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--mostre-seu-apoio">Mostre seu apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo--licença">Licença</a>
 </p>
 
 <p align="center">
@@ -18,29 +20,70 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="calendario de jogos" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻  Projeto
+
+O Calendário de Jogos é um projeto que mostra os jogos da Copa do Mundo de 2022 com datas e hora. Desenvolvido durante o NLW-Copa na trilha explorer, evento organizado pela Rocketseat.
+
+[Visite o projeto online](https://antonio2812.github.io/calendario-de-jogos)
+
+## ⚡  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5 e CSS3
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 🤝  Como Contribuir
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+```bash
+  # Clone o projeto
+  $ git clone https://github.com/antonio2812/calendario-de-jogos.git
+````
 
-## 🔖 Layout
+```bash
+  # Entrar no diretório
+  $ cd calendario-de-jogos
+```
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+```bash
+  # Instale as dependências utilizando o npm
+  $ npm install
+```
 
-## :memo: Licença
+```bash
+  # Executar
+  $ npm start
+```
 
-Esse projeto está sob a licença MIT.
+<p align="center">Ou</p>
 
----
+```bash
+  # Instale as dependências utilizando o yarn
+  $ yarn
+```
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+```bash
+  # Executar
+  $ yarn start
+```
+
+## 👤  Autor
+
+**Antonio  Carlos**
+
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior-03783221b/)
+* [Gmail](mailto:acarlosdesouzajunior@gmail.com)
+* [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
+* [Discord](https://discord.com/channels/@me)
+
+## ✨  Mostre seu apoio
+
+Dar uma⭐️se esse projeto te ajudou ou inspirou!
+
+## :memo:  Licença
+
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/calendario-de-jogos/blob/main/LICENSE">LICENSE</a> para mais detalhes.
